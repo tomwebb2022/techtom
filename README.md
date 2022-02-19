@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @techtom
+- 👋 Hi, I’m Tom
 - 👀 I’m interested in Computer Science and Front-End Development
 - 🌱 I’m currently learning JavaScript but would like projects in Python
 - 💞️ I’m looking to collaborate on anything
